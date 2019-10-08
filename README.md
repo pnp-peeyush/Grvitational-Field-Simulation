@@ -1,4 +1,4 @@
-# 2D Grvitational potential field and trajectory simulation
+# 2D Gravitational potential field and trajectory simulation
 
 1. First file "GravitationalFieldandKinematicsSimulator.py". Specify all the necessary initial information of all the 'n' bodies 
 to be simulated, dimensions of space and dusration of time to be simulated. After the execution of this file all the simulated 
